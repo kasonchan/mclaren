@@ -60,7 +60,7 @@ Text: pop, Index: 6 Length: 3
 
 Follow these steps to run the code:
 
-1. Download this repository
+1. Download this repository.
 2. `Unzip` the downloaded repository.
 3. `cd` into the this directory.
 4. Enter `sbt "run <supplied string> <number of longest unique palindromes>"` to execute.
@@ -77,7 +77,7 @@ Text: abccba, Index: 5 Length: 6
 
 Follow these steps to run the code:
 
-1. Download this repository
+1. Download this repository.
 2. `Unzip` the downloaded repository.
 3. `cd` into the this directory.
 4. Enter `sbt test` to test.
